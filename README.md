@@ -16,6 +16,11 @@ chmod u+x create_vite.sh
 ./create_vite.sh
 
 ```
+```
+chmod u+x create_nodeFile.sh
+./create_nodeFile.sh
+
+```
 
 for Windows users, make sure you remove the files from their folder after cloning and then putting them in your desktop directory then whenever you want to use it you can just click on the bat file
 
