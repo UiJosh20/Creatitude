@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-cd /home/joshua/Desktop/SQI_Class/Level_3/REACT
+cd /home/dr-anonymous/Desktop/PROJECTS
 
 read -p "Enter the name of your React project folder: " project_folder_name
 
